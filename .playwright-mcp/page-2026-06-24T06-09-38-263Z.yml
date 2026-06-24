@@ -1,0 +1,192 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e24]:
+        - button "Toggle light or dark theme" [ref=e25] [cursor=pointer]:
+          - img [ref=e26]
+        - link "Request a Quote" [ref=e28] [cursor=pointer]:
+          - /url: "#quote"
+  - text: → → → →
+  - main [ref=e29]:
+    - generic [ref=e31]:
+      - heading "About 4S International" [level=1] [ref=e33]:
+        - generic [ref=e34]: About
+        - generic [ref=e35]: 4S International
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - group "1 / 4" [ref=e39]
+          - group "2 / 4"
+          - group "3 / 4"
+          - group "4 / 4"
+        - generic [ref=e41]:
+          - button "Go to slide 1" [ref=e42] [cursor=pointer]
+          - button "Go to slide 2" [ref=e43] [cursor=pointer]
+          - button "Go to slide 3" [ref=e44] [cursor=pointer]
+          - button "Go to slide 4" [ref=e45] [cursor=pointer]
+    - generic [ref=e47]:
+      - article [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50]: "01"
+          - paragraph [ref=e51]: 4S International Inc. is a federally incorporated Canadian bearing importer and distributor based in Mississauga, Ontario. We supply anti-friction bearings to industrial businesses across Ontario and Canada.
+      - article [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: "02"
+          - paragraph [ref=e56]: We operate from a 2,000 sq ft warehouse and office at 3400 Ridgeway Drive, in the Pearson Airport industrial corridor with direct access to Highway 401, Highway 403, and Toronto Pearson International Airport.
+      - article [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]: "03"
+          - paragraph [ref=e61]: "Our product range covers the full HS 8482 classification: ball bearings, roller bearings, thrust bearings, and bearing accessories. All products come from ISO 9001 certified manufacturers across five countries. Every shipment includes certificates of conformity, material test reports, and dimensional inspection records."
+      - article [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e65]: "04"
+          - paragraph [ref=e66]: We serve machine shops, food processors, packaging plants, agricultural equipment dealers, maintenance contractors, and regional distributors. Our minimum order is a single case, and we offer flexible payment terms for repeat customers.
+    - generic [ref=e68]:
+      - generic:
+        - generic:
+          - img
+        - generic:
+          - img
+        - generic:
+          - img
+        - generic:
+          - img
+        - generic:
+          - img
+        - generic:
+          - img
+      - generic [ref=e70]:
+        - heading "Our Founder" [level=2] [ref=e71]
+        - generic [ref=e72]:
+          - complementary [ref=e73]:
+            - img [ref=e75]
+            - heading "Fatema Islam" [level=3] [ref=e88]
+            - paragraph [ref=e89]: Founder and General Manager
+          - generic [ref=e90]:
+            - text: “
+            - paragraph [ref=e91]: Ms. Islam has worked in the bearing trade since 2019, operating S.S Bearing and Machineries on Nawabpur Road in Dhaka, Bangladesh. Over six years, she has built sourcing relationships with manufacturers across China, Japan, Thailand, and India, negotiating pricing, coordinating international shipping, and verifying product quality against ABEC and ISO 492 standards.
+            - paragraph [ref=e92]: She holds bearing inventory valued at approximately CAD $185,000 through her existing operations. Her trade credentials are registered with Bangladesh's National Board of Revenue, Dhaka South City Corporation, and VAT authorities.
+            - paragraph [ref=e93]: 4S International brings Ms. Islam's sourcing expertise and supplier network to the Canadian market.
+    - generic [ref=e94]:
+      - generic:
+        - generic:
+          - img
+        - generic:
+          - img
+        - generic:
+          - img
+      - generic [ref=e96]:
+        - heading "Company Facts" [level=2] [ref=e97]
+        - table [ref=e98]:
+          - rowgroup [ref=e99]:
+            - row "Detail Information" [ref=e100]:
+              - columnheader "Detail" [ref=e101]
+              - columnheader "Information" [ref=e102]
+          - rowgroup [ref=e103]:
+            - row "Legal name 4S International Inc." [ref=e104]:
+              - rowheader "Legal name" [ref=e105]
+              - cell "4S International Inc." [ref=e106]
+            - row "Incorporated 2026, Canada (CBCA)" [ref=e107]:
+              - rowheader "Incorporated" [ref=e108]
+              - cell "2026, Canada (CBCA)" [ref=e109]
+            - row "Location Unit 11, 3400 Ridgeway Dr, Mississauga, ON L5L 5Y6" [ref=e110]:
+              - rowheader "Location" [ref=e111]
+              - cell "Unit 11, 3400 Ridgeway Dr, Mississauga, ON L5L 5Y6" [ref=e112]
+            - row "Industry Wholesale Distribution, Industrial Bearings (NAICS 417230)" [ref=e113]:
+              - rowheader "Industry" [ref=e114]
+              - cell "Wholesale Distribution, Industrial Bearings (NAICS 417230)" [ref=e115]
+            - row "HS Code 8482, Ball or Roller Bearings" [ref=e116]:
+              - rowheader "HS Code" [ref=e117]
+              - cell "8482, Ball or Roller Bearings" [ref=e118]
+            - row "Source countries China, Japan, India, Thailand, Vietnam" [ref=e119]:
+              - rowheader "Source countries" [ref=e120]
+              - cell "China, Japan, India, Thailand, Vietnam" [ref=e121]
+            - row "Quality standards ISO 9001, ABEC, ISO 492" [ref=e122]:
+              - rowheader "Quality standards" [ref=e123]
+              - cell "ISO 9001, ABEC, ISO 492" [ref=e124]
+    - generic [ref=e126]:
+      - link "Request a Quote →" [ref=e127] [cursor=pointer]:
+        - /url: "#quote"
+        - text: Request a Quote
+        - generic [ref=e128]: →
+      - link "Contact Us →" [ref=e129] [cursor=pointer]:
+        - /url: contact.html
+        - text: Contact Us
+        - generic [ref=e130]: →
+    - generic [ref=e132]:
+      - generic [ref=e133]:
+        - heading "Request a Quote" [level=2] [ref=e134]
+        - paragraph [ref=e135]: We respond within one business day with a quote. No hidden fees.
+        - generic [ref=e136]:
+          - link "Request a Quote →" [ref=e137] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Request a Quote
+            - generic [ref=e138]: →
+          - link "info@4sinternational.ca" [ref=e139] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+      - img [ref=e141]
+  - contentinfo [ref=e149]:
+    - text: 4S International
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - link "4S International" [ref=e152] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e153]
+          - generic [ref=e166]: 4S International
+        - paragraph [ref=e167]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e168]:
+        - heading "Navigate" [level=4] [ref=e169]:
+          - button "Navigate" [ref=e170]
+        - generic [ref=e171]:
+          - link "Home" [ref=e172] [cursor=pointer]:
+            - /url: index.html
+          - link "About" [ref=e173] [cursor=pointer]:
+            - /url: about.html
+          - link "Products" [ref=e174] [cursor=pointer]:
+            - /url: products.html
+          - link "Contact" [ref=e175] [cursor=pointer]:
+            - /url: contact.html
+      - generic [ref=e176]:
+        - heading "Visit / Contact" [level=4] [ref=e177]:
+          - button "Visit / Contact" [ref=e178]
+        - generic [ref=e180]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e181] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e182]:
+        - heading "Standards" [level=4] [ref=e183]
+        - paragraph [ref=e184]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote →" [ref=e185] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Request a Quote
+          - generic [ref=e186]: →
+    - generic [ref=e187]:
+      - generic [ref=e188]: © 2026 4S International Inc.
+      - generic [ref=e189]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e190]:
+        - link "Privacy" [ref=e191] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e192] [cursor=pointer]:
+          - /url: terms-of-sale.html
+      - link "Made by SKLENTR" [ref=e193] [cursor=pointer]:
+        - /url: https://www.sklentr.com/
+        - text: Made by
+        - img [ref=e194]
+        - strong [ref=e196]: SKLENTR

@@ -1,0 +1,183 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#quote"
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - navigation "Breadcrumb" [ref=e29]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: index.html
+        - text: /Products
+      - heading "Our Products" [level=1] [ref=e31]
+      - paragraph [ref=e32]: We carry the full range of anti-friction bearings classified under HS 8482. All products are sourced from ISO 9001 certified manufacturers. If you have a branded part number (SKF, NTN, Timken, Schaeffler, NSK), we can cross-reference it to a compatible equivalent.
+      - link "Request a Quote →" [ref=e34] [cursor=pointer]:
+        - /url: "#quote"
+        - text: Request a Quote
+        - generic [ref=e35]: →
+    - generic [ref=e38]:
+      - article [ref=e39]:
+        - text: "01"
+        - generic [ref=e40]:
+          - heading "Deep Groove Ball Bearings" [level=2] [ref=e41]
+          - text: "HS Code: 8482.10 | Canadian MFN Duty: Free"
+          - paragraph [ref=e42]: The most widely used bearing type in industrial applications. Available in single-row and double-row configurations, sealed (2RS) and shielded (ZZ), in metric and imperial bore sizes from 10mm to 200mm+.
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: "Common applications: Electric motors, pumps, conveyors, fans, HVAC systems, compressors, general-purpose machinery."
+            - paragraph [ref=e45]: "Popular specifications: 6200 series, 6300 series, 6000 series, 6800 series."
+        - link "Get a Quote →" [ref=e46] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e47]: →
+      - article [ref=e48]:
+        - text: "02"
+        - generic [ref=e49]:
+          - heading "Angular Contact Ball Bearings" [level=2] [ref=e50]
+          - text: "HS Code: 8482.10 | Canadian MFN Duty: Free"
+          - paragraph [ref=e51]: Designed for combined radial and axial loads. Available in single-row (15, 25, 40 degree contact angles) and matched-pair configurations for back-to-back (DB), face-to-face (DF), and tandem (DT) mounting.
+          - paragraph [ref=e53]: "Common applications: Machine tool spindles, pump shafts, compressors, centrifuges."
+        - link "Get a Quote →" [ref=e54] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e55]: →
+      - article [ref=e56]:
+        - text: "03"
+        - generic [ref=e57]:
+          - heading "Self-Aligning Ball Bearings" [level=2] [ref=e58]
+          - text: "HS Code: 8482.10 | Canadian MFN Duty: Free"
+          - paragraph [ref=e59]: Double-row ball bearings with a spherical outer ring raceway that accommodates shaft deflection and misalignment up to 2 to 3 degrees.
+          - paragraph [ref=e61]: "Common applications: Textile machinery, agricultural equipment, fans and blowers, light conveyor systems."
+        - link "Get a Quote →" [ref=e62] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e63]: →
+      - article [ref=e64]:
+        - text: "04"
+        - generic [ref=e65]:
+          - heading "Tapered Roller Bearings" [level=2] [ref=e66]
+          - text: "HS Code: 8482.20 | Canadian MFN Duty: 6.5% (0% under CPTPP for Japan/Vietnam origins)"
+          - paragraph [ref=e67]: Engineered for heavy combined radial and axial loads. Available in single-row, double-row, and four-row configurations.
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: "Common applications: Automotive wheel hubs, gearboxes, rolling mills, heavy machinery differentials, crane wheels."
+            - paragraph [ref=e70]: "Popular specifications: 30200 series, 32200 series, 33000 series, LM series (imperial)."
+        - link "Get a Quote →" [ref=e71] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e72]: →
+      - article [ref=e73]:
+        - text: "05"
+        - generic [ref=e74]:
+          - heading "Spherical Roller Bearings" [level=2] [ref=e75]
+          - text: "HS Code: 8482.30 | Canadian MFN Duty: Free"
+          - paragraph [ref=e76]: Heavy-duty self-aligning roller bearings for extreme radial loads, shock loads, and misalignment conditions.
+          - generic [ref=e77]:
+            - paragraph [ref=e78]: "Common applications: Mining crushers, vibrating screens, construction equipment, paper mill rolls, industrial gearboxes."
+            - paragraph [ref=e79]: "Popular specifications: 22200 series, 23000 series, 24000 series."
+        - link "Get a Quote →" [ref=e80] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e81]: →
+      - article [ref=e82]:
+        - text: "06"
+        - generic [ref=e83]:
+          - heading "Cylindrical Roller Bearings" [level=2] [ref=e84]
+          - text: "HS Code: 8482.50 | Canadian MFN Duty: 6.5% (0% under CPTPP for Japan/Vietnam origins)"
+          - paragraph [ref=e85]: High radial load capacity with separable inner and outer rings for easy mounting. Available in NU, NJ, NUP, and N configurations.
+          - paragraph [ref=e87]: "Common applications: Electric motors, rolling mills, gearboxes, compressors, centrifugal pumps."
+        - link "Get a Quote →" [ref=e88] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e89]: →
+      - article [ref=e90]:
+        - text: "07"
+        - generic [ref=e91]:
+          - heading "Needle Roller Bearings" [level=2] [ref=e92]
+          - text: "HS Code: 8482.40"
+          - paragraph [ref=e93]: Thin-profile roller bearings that handle high radial loads in compact spaces. Available as drawn cup, heavy-duty, and combined needle/thrust configurations.
+          - paragraph [ref=e95]: "Common applications: Automotive transmissions, hydraulic cylinders, small gear drives, rocker arms, connecting rods."
+        - link "Get a Quote →" [ref=e96] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e97]: →
+      - article [ref=e98]:
+        - text: "08"
+        - generic [ref=e99]:
+          - heading "Thrust Bearings" [level=2] [ref=e100]
+          - text: "HS Code: 8482.80"
+          - paragraph [ref=e101]: Ball and roller thrust bearings for pure axial load applications. Available in single-direction and double-direction configurations.
+          - paragraph [ref=e103]: "Common applications: Crane hooks, turntables, vertical shaft assemblies, screw jacks, rotary tables."
+        - link "Get a Quote →" [ref=e104] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e105]: →
+      - article [ref=e106]:
+        - text: "09"
+        - generic [ref=e107]:
+          - heading "Bearing Accessories and Mounted Units" [level=2] [ref=e108]
+          - text: "HS Code: 8482.99 | Canadian MFN Duty: Free"
+          - paragraph [ref=e109]: Adapter sleeves, lock nuts, seals, pillow block housings, flange units, and take-up units.
+        - link "Get a Quote →" [ref=e110] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e111]: →
+    - generic [ref=e113]:
+      - heading "Need a bearing? Send the number." [level=2] [ref=e114]
+      - link "Request a Quote →" [ref=e115] [cursor=pointer]:
+        - /url: "#quote"
+        - text: Request a Quote
+        - generic [ref=e116]: →
+  - contentinfo [ref=e117]:
+    - generic [ref=e118]:
+      - generic [ref=e119]:
+        - link "4S International" [ref=e120] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e121]
+          - generic [ref=e134]: 4S International
+        - paragraph [ref=e135]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e136]:
+        - heading "Navigate" [level=4] [ref=e137]
+        - link "Home" [ref=e138] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e139] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e140] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e141] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e142]:
+        - heading "Visit / Contact" [level=4] [ref=e143]
+        - generic [ref=e144]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e145] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e146]:
+        - heading "Standards" [level=4] [ref=e147]
+        - paragraph [ref=e148]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote" [ref=e149] [cursor=pointer]:
+          - /url: "#quote"
+    - generic [ref=e150]:
+      - generic [ref=e151]: © 2026 4S International Inc.
+      - generic [ref=e152]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e153]:
+        - link "Privacy" [ref=e154] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e155] [cursor=pointer]:
+          - /url: terms-of-sale.html

@@ -1,0 +1,132 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#quote"
+  - main [ref=e26]:
+    - heading "Privacy Policy" [level=1] [ref=e29]
+    - generic [ref=e31]:
+      - paragraph [ref=e32]: "[ Last updated: add date ]"
+      - note [ref=e33]:
+        - img [ref=e34]
+        - paragraph [ref=e36]:
+          - strong [ref=e37]: Template — not legal advice.
+          - text: This page is a styled placeholder. Replace each bracketed section below with your finalized Privacy Policy text, reviewed by qualified counsel, before publishing.
+      - generic [ref=e38]:
+        - heading "1. Introduction" [level=2] [ref=e39]:
+          - generic [ref=e40]: "1."
+          - text: Introduction
+        - generic [ref=e41]: "[ Introduce 4S International Inc. and the purpose of this Privacy Policy — who it applies to and what it covers. ]"
+      - generic [ref=e42]:
+        - heading "2. Information We Collect" [level=2] [ref=e43]:
+          - generic [ref=e44]: "2."
+          - text: Information We Collect
+        - generic [ref=e45]: "[ Describe the personal and business information collected (e.g. via the Quote Request and General Contact forms): name, company, email, phone, and any details submitted. ]"
+      - generic [ref=e46]:
+        - heading "3. How We Use Your Information" [level=2] [ref=e47]:
+          - generic [ref=e48]: "3."
+          - text: How We Use Your Information
+        - generic [ref=e49]: "[ Explain the purposes — responding to quotes and inquiries, fulfilling orders, account administration, and related communications. ]"
+      - generic [ref=e50]:
+        - heading "4. Cookies and Tracking Technologies" [level=2] [ref=e51]:
+          - generic [ref=e52]: "4."
+          - text: Cookies and Tracking Technologies
+        - generic [ref=e53]: "[ State whether the site uses cookies, analytics, or similar technologies, and how visitors can manage them. ]"
+      - generic [ref=e54]:
+        - heading "5. How We Share Information" [level=2] [ref=e55]:
+          - generic [ref=e56]: "5."
+          - text: How We Share Information
+        - generic [ref=e57]: "[ Describe any sharing with service providers, carriers, or partners, and confirm that information is not sold. ]"
+      - generic [ref=e58]:
+        - heading "6. Data Retention" [level=2] [ref=e59]:
+          - generic [ref=e60]: "6."
+          - text: Data Retention
+        - generic [ref=e61]: "[ State how long information is retained and the criteria used to determine retention periods. ]"
+      - generic [ref=e62]:
+        - heading "7. Your Rights" [level=2] [ref=e63]:
+          - generic [ref=e64]: "7."
+          - text: Your Rights
+        - generic [ref=e65]: "[ Describe individuals' rights to access, correct, or delete their information under applicable Canadian privacy law (e.g. PIPEDA), and how to exercise them. ]"
+      - generic [ref=e66]:
+        - heading "8. Data Security" [level=2] [ref=e67]:
+          - generic [ref=e68]: "8."
+          - text: Data Security
+        - generic [ref=e69]: "[ Outline the safeguards used to protect personal and business information. ]"
+      - generic [ref=e70]:
+        - heading "9. Third-Party Links" [level=2] [ref=e71]:
+          - generic [ref=e72]: "9."
+          - text: Third-Party Links
+        - generic [ref=e73]: "[ Note that the site may link to third-party websites and that this policy does not cover their practices. ]"
+      - generic [ref=e74]:
+        - heading "10. Changes to This Policy" [level=2] [ref=e75]:
+          - generic [ref=e76]: "10."
+          - text: Changes to This Policy
+        - generic [ref=e77]: "[ Explain how and when this policy may be updated. ]"
+      - generic [ref=e78]:
+        - heading "11. Contact Us" [level=2] [ref=e79]:
+          - generic [ref=e80]: "11."
+          - text: Contact Us
+        - generic [ref=e81]:
+          - text: "[ Provide the contact point for privacy questions. Company contact details are on the"
+          - link "Contact" [ref=e82] [cursor=pointer]:
+            - /url: contact.html
+          - text: page. ]
+    - link "Request a Quote →" [ref=e85] [cursor=pointer]:
+      - /url: "#quote"
+      - text: Request a Quote
+      - generic [ref=e86]: →
+  - contentinfo [ref=e87]:
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - link "4S International" [ref=e90] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e91]
+          - generic [ref=e104]: 4S International
+        - paragraph [ref=e105]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e106]:
+        - heading "Navigate" [level=4] [ref=e107]
+        - link "Home" [ref=e108] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e109] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e110] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e111] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e112]:
+        - heading "Visit / Contact" [level=4] [ref=e113]
+        - generic [ref=e114]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e115] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e116]:
+        - heading "Standards" [level=4] [ref=e117]
+        - paragraph [ref=e118]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote" [ref=e119] [cursor=pointer]:
+          - /url: "#quote"
+    - generic [ref=e120]:
+      - generic [ref=e121]: © 2026 4S International Inc.
+      - generic [ref=e122]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e123]:
+        - link "Privacy" [ref=e124] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e125] [cursor=pointer]:
+          - /url: terms-of-sale.html

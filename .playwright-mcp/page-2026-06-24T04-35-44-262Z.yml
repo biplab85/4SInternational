@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - button "Open menu" [ref=e20] [cursor=pointer]
+  - text: → → → →
+  - main [ref=e24]:
+    - generic [ref=e27]:
+      - heading "Industrial Bearings for Canadian Businesses" [level=1] [ref=e28]:
+        - text: Industrial
+        - emphasis [ref=e29]: Bearings
+        - text: for Canadian Businesses
+      - paragraph [ref=e30]: 4S International supplies anti-friction bearings to manufacturers, machine shops, food processors, and maintenance operations across Ontario and Canada. We carry the full range of ball bearings, roller bearings, and bearing accessories from ISO 9001 certified manufacturers.
+      - generic [ref=e31]:
+        - link "Request a Quote →" [ref=e32] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Request a Quote
+          - generic [ref=e33]: →
+        - link "View Our Products" [ref=e34] [cursor=pointer]:
+          - /url: products.html
+    - generic [ref=e36]:
+      - heading "What We Do" [level=2] [ref=e37]
+      - generic [ref=e38]:
+        - paragraph [ref=e39]: 4S International is a Mississauga-based bearing importer and wholesale distributor. We supply anti-friction bearings classified under HS 8482 to small and mid-size industrial businesses across Canada.
+        - paragraph [ref=e40]: We source from manufacturers in China, Japan, India, Thailand, and Vietnam.
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - heading "Products" [level=2] [ref=e45]
+          - heading "The Full Range of Anti-Friction Bearings" [level=3] [ref=e46]
+        - generic [ref=e47]:
+          - button "Previous slide" [disabled] [ref=e48] [cursor=pointer]: ←
+          - button "Next slide" [ref=e49] [cursor=pointer]: →
+      - generic [ref=e52]:
+        - group "1 / 8" [ref=e53]:
+          - heading "Deep Groove Ball Bearings" [level=3] [ref=e54]
+          - paragraph [ref=e55]: Electric motors, pumps, conveyors, HVAC
+        - group "2 / 8" [ref=e56]:
+          - heading "Tapered Roller Bearings" [level=3] [ref=e57]
+          - paragraph [ref=e58]: Wheel hubs, gearboxes, rolling mills
+        - group "3 / 8" [ref=e59]:
+          - heading "Spherical Roller Bearings" [level=3] [ref=e60]
+          - paragraph [ref=e61]: Mining crushers, vibrating screens, construction machinery
+        - group "4 / 8" [ref=e62]:
+          - heading "Cylindrical Roller Bearings" [level=3] [ref=e63]
+          - paragraph [ref=e64]: Motors, compressors, gearboxes
+        - group "5 / 8" [ref=e65]:
+          - heading "Angular Contact Ball Bearings" [level=3] [ref=e66]
+          - paragraph [ref=e67]: Machine tool spindles, pumps, compressors
+        - group "6 / 8" [ref=e68]:
+          - heading "Needle Roller Bearings" [level=3] [ref=e69]
+          - paragraph [ref=e70]: Transmissions, hydraulic cylinders
+        - group "7 / 8" [ref=e71]:
+          - heading "Thrust Bearings" [level=3] [ref=e72]
+          - paragraph [ref=e73]: Crane hooks, turntables, vertical shaft assemblies
+        - group "8 / 8" [ref=e74]:
+          - heading "Bearing Accessories" [level=3] [ref=e75]
+          - paragraph [ref=e76]: Pillow blocks, flange units, adapter sleeves, seals
+      - link "View Full Product Range →" [ref=e80] [cursor=pointer]:
+        - /url: products.html
+        - text: View Full Product Range
+        - generic [ref=e81]: →
+    - generic [ref=e83]:
+      - heading "Industries We Serve" [level=2] [ref=e84]
+      - generic [ref=e85]:
+        - article [ref=e86]:
+          - img [ref=e87]
+          - heading "Manufacturing and Fabrication" [level=3] [ref=e89]
+        - article [ref=e90]:
+          - img [ref=e91]
+          - heading "Food and Beverage Processing" [level=3] [ref=e93]
+        - article [ref=e94]:
+          - img [ref=e95]
+          - heading "Mining and Heavy Equipment" [level=3] [ref=e97]
+        - article [ref=e98]:
+          - img [ref=e99]
+          - heading "Agriculture" [level=3] [ref=e103]
+        - article [ref=e104]:
+          - img [ref=e105]
+          - heading "HVAC and Building Maintenance" [level=3] [ref=e107]
+        - article [ref=e108]:
+          - img [ref=e109]
+          - heading "Automotive and Fleet" [level=3] [ref=e111]
+    - generic [ref=e113]:
+      - heading "How to Order" [level=2] [ref=e114]
+      - generic [ref=e115]:
+        - article [ref=e116]:
+          - img [ref=e118]
+          - 'heading "Step 1: Send Us Your Specifications" [level=3] [ref=e122]'
+          - paragraph [ref=e123]: Part number, bearing type, size, quantity, and application. If you have a branded part number, we will cross-reference it.
+        - article [ref=e124]:
+          - img [ref=e126]
+          - 'heading "Step 2: Receive a Quote" [level=3] [ref=e129]'
+          - paragraph [ref=e130]: We respond within one business day with a quote. No hidden fees.
+        - article [ref=e131]:
+          - img [ref=e133]
+          - 'heading "Step 3: We Deliver" [level=3] [ref=e138]'
+          - paragraph [ref=e139]: GTA, Ontario, and Canada-wide shipping available.
+      - link "Request a Quote →" [ref=e141] [cursor=pointer]:
+        - /url: "#quote"
+        - text: Request a Quote
+        - generic [ref=e142]: →
+    - generic [ref=e144]:
+      - generic [ref=e145]:
+        - heading "Why 4S International" [level=2] [ref=e146]
+        - link "Get a Quote →" [ref=e147] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Get a Quote
+          - generic [ref=e148]: →
+      - list [ref=e149]:
+        - listitem [ref=e150]:
+          - generic [ref=e151]: "01"
+          - paragraph [ref=e153]: Competitive pricing on all bearing types.
+        - listitem [ref=e154]:
+          - generic [ref=e155]: "02"
+          - paragraph [ref=e157]: Minimum orders as low as a single case (10 to 50 units).
+        - listitem [ref=e158]:
+          - generic [ref=e159]: "03"
+          - paragraph [ref=e161]: Fast shipping across the GTA, Ontario, and Canada.
+        - listitem [ref=e162]:
+          - generic [ref=e163]: "04"
+          - paragraph [ref=e165]: Cross-reference service for branded OEM part numbers.
+        - listitem [ref=e166]:
+          - generic [ref=e167]: "05"
+          - paragraph [ref=e169]: Certificates of conformity and material test reports with every shipment.
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - heading "Request a Quote" [level=2] [ref=e173]
+        - paragraph [ref=e174]: We respond within one business day with a quote. No hidden fees.
+        - generic [ref=e175]:
+          - link "Request a Quote →" [ref=e176] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Request a Quote
+            - generic [ref=e177]: →
+          - link "info@4sinternational.ca" [ref=e178] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+      - img [ref=e180]
+  - contentinfo [ref=e188]:
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - link "4S International" [ref=e191] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e192]
+          - generic [ref=e205]: 4S International
+        - paragraph [ref=e206]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e207]:
+        - heading "Navigate" [level=4] [ref=e208]
+        - link "Home" [ref=e209] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e210] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e211] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e212] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e213]:
+        - heading "Visit / Contact" [level=4] [ref=e214]
+        - generic [ref=e215]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e216] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e217]:
+        - heading "Standards" [level=4] [ref=e218]
+        - paragraph [ref=e219]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote →" [ref=e220] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Request a Quote
+          - generic [ref=e221]: →
+    - generic [ref=e222]:
+      - generic [ref=e223]: © 2026 4S International Inc.
+      - generic [ref=e224]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e225]:
+        - link "Privacy" [ref=e226] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e227] [cursor=pointer]:
+          - /url: terms-of-sale.html
+      - link "Made by SKLENTR" [ref=e228] [cursor=pointer]:
+        - /url: https://www.sklentr.com/
+        - text: Made by
+        - img [ref=e229]
+        - strong [ref=e231]: SKLENTR
+  - navigation "Quick actions":
+    - link "Home":
+      - /url: index.html
+      - img
+      - generic: Home
+    - link "Products":
+      - /url: products.html
+      - img
+      - generic: Products
+    - link "Quote":
+      - /url: "#quote"
+      - img
+      - generic: Quote
+    - link "Email":
+      - /url: mailto:info@4sinternational.ca
+      - img
+      - generic: Email
+    - button "Open menu":
+      - img
+      - generic: Menu

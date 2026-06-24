@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#quote"
+  - text: → → → →
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - heading "Contact Us" [level=1] [ref=e30]
+        - paragraph [ref=e31]: Have a question or need a quote? Reach out and we will get back to you within one business day.
+      - img [ref=e33]
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - heading "Contact Details" [level=2] [ref=e41]
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - text: 4S International Inc.
+            - text: Unit 11, 3400 Ridgeway Dr
+            - text: Mississauga, ON L5L 5Y6
+          - paragraph [ref=e44]:
+            - text: "Email:"
+            - link "info@4sinternational.ca" [ref=e45] [cursor=pointer]:
+              - /url: mailto:info@4sinternational.ca
+            - text: "Phone: [to be added]"
+          - paragraph [ref=e46]: "Hours: Monday to Friday, 8:00 AM to 5:00 PM EST"
+      - generic [ref=e47]:
+        - heading "Directions" [level=2] [ref=e48]
+        - paragraph [ref=e49]: Located in the Pearson Airport industrial corridor, off Ridgeway Drive with direct access to Highway 401, Highway 403, and Toronto Pearson International Airport.
+    - separator [ref=e50]
+    - generic [ref=e53]:
+      - heading "General Contact Form" [level=2] [ref=e54]
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]: Name
+            - textbox "Name" [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e61]: Email
+            - textbox "Email" [ref=e62]
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e65]: Phone (optional)
+            - textbox "Phone (optional)" [ref=e66]
+          - generic [ref=e67]:
+            - generic [ref=e68]: Subject
+            - combobox "Subject" [ref=e69]:
+              - option "Quote Request"
+              - option "Product Question"
+              - option "Wholesale Inquiry"
+              - option "General"
+        - generic [ref=e70]:
+          - generic [ref=e71]: Message
+          - textbox "Message" [ref=e72]
+        - button "Send Message →" [ref=e73] [cursor=pointer]:
+          - text: Send Message
+          - generic [ref=e74]: →
+    - separator [ref=e75]
+    - generic [ref=e77]:
+      - heading "FAQ" [level=2] [ref=e78]
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - button "What types of bearings do you sell?" [ref=e81] [cursor=pointer]: What types of bearings do you sell?
+          - region:
+            - generic [ref=e83]: "We supply the full HS 8482 range: deep groove ball bearings, angular contact ball bearings, self-aligning ball bearings, tapered roller bearings, spherical roller bearings, cylindrical roller bearings, needle roller bearings, thrust bearings, and bearing accessories."
+        - generic [ref=e84]:
+          - button "Are your bearings the same quality as branded products?" [ref=e85] [cursor=pointer]: Are your bearings the same quality as branded products?
+          - region:
+            - generic [ref=e87]: All our suppliers hold ISO 9001 quality management certification. Our bearings are manufactured to the same dimensional tolerances (ISO 492) and precision grades (ABEC standards) as branded equivalents. We provide certificates of conformity and material test reports with every shipment.
+        - generic [ref=e88]:
+          - button "What is your minimum order quantity?" [ref=e89] [cursor=pointer]: What is your minimum order quantity?
+          - region:
+            - generic [ref=e91]: As low as a single case, which typically contains 10 to 50 units depending on bearing type and size.
+        - generic [ref=e92]:
+          - button "How fast can you deliver?" [ref=e93] [cursor=pointer]: How fast can you deliver?
+          - region:
+            - generic [ref=e95]: GTA, Ontario, and Canada-wide shipping available.
+        - generic [ref=e96]:
+          - button "Can you cross-reference a branded part number?" [ref=e97] [cursor=pointer]: Can you cross-reference a branded part number?
+          - region:
+            - generic [ref=e99]: Yes. Send us the OEM part number and we will identify the matching specification, confirm dimensional compatibility, and quote it.
+        - generic [ref=e100]:
+          - button "Do you offer payment terms?" [ref=e101] [cursor=pointer]: Do you offer payment terms?
+          - region:
+            - generic [ref=e103]: We offer flexible payment terms for creditworthy repeat customers.
+        - generic [ref=e104]:
+          - button "Where do you source your bearings from?" [ref=e105] [cursor=pointer]: Where do you source your bearings from?
+          - region:
+            - generic [ref=e107]: "We work with manufacturers in five countries: China, Japan, India, Thailand, and Vietnam."
+        - generic [ref=e108]:
+          - button "Do you sell to other distributors?" [ref=e109] [cursor=pointer]: Do you sell to other distributors?
+          - region:
+            - generic [ref=e111]: Yes. Contact us to discuss wholesale pricing.
+        - generic [ref=e112]:
+          - button "Can I visit your warehouse?" [ref=e113] [cursor=pointer]: Can I visit your warehouse?
+          - region:
+            - generic [ref=e115]: Yes. Our facility at 3400 Ridgeway Drive in Mississauga is open during business hours. Contact us to arrange a visit.
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - heading "Request a Quote" [level=2] [ref=e119]
+        - paragraph [ref=e120]: We respond within one business day with a quote. No hidden fees.
+        - generic [ref=e121]:
+          - link "Request a Quote →" [ref=e122] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Request a Quote
+            - generic [ref=e123]: →
+          - link "info@4sinternational.ca" [ref=e124] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+      - img [ref=e126]
+  - contentinfo [ref=e134]:
+    - text: 4S International
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - link "4S International" [ref=e137] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e138]
+          - generic [ref=e151]: 4S International
+        - paragraph [ref=e152]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e153]:
+        - heading "Navigate" [level=4] [ref=e154]
+        - link "Home" [ref=e155] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e156] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e157] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e158] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e159]:
+        - heading "Visit / Contact" [level=4] [ref=e160]
+        - generic [ref=e161]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e162] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e163]:
+        - heading "Standards" [level=4] [ref=e164]
+        - paragraph [ref=e165]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote →" [ref=e166] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Request a Quote
+          - generic [ref=e167]: →
+    - generic [ref=e168]:
+      - generic [ref=e169]: © 2026 4S International Inc.
+      - generic [ref=e170]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e171]:
+        - link "Privacy" [ref=e172] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e173] [cursor=pointer]:
+          - /url: terms-of-sale.html
+      - link "Made by SKLENTR" [ref=e174] [cursor=pointer]:
+        - /url: https://www.sklentr.com/
+        - text: Made by
+        - img [ref=e175]
+        - strong [ref=e177]: SKLENTR

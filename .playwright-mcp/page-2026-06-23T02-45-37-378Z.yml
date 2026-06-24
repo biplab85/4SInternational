@@ -1,0 +1,354 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#quote"
+  - main [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - paragraph [ref=e30]: HS 8482 · Ball & Roller Bearings · Mississauga, ON
+          - heading "Industrial bearings, direct to Canadian industry." [level=1] [ref=e32]:
+            - generic [ref=e33]: Industrial
+            - generic [ref=e34]:
+              - text: bearings,
+              - emphasis [ref=e35]: direct
+            - generic [ref=e36]: to Canadian industry.
+          - paragraph [ref=e37]: We supply anti-friction bearings to manufacturers, machine shops, food processors and maintenance operations across Ontario and Canada — sourced direct from ISO 9001 factories, priced to bypass the markup.
+          - generic [ref=e38]:
+            - link "Request a Quote →" [ref=e39] [cursor=pointer]:
+              - /url: "#quote"
+              - text: Request a Quote
+              - generic [ref=e40]: →
+            - link "View Products" [ref=e41] [cursor=pointer]:
+              - /url: products.html
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - term [ref=e44]: Source countries
+              - definition [ref=e45]: "05"
+            - generic [ref=e46]:
+              - term [ref=e47]: Min. order
+              - definition [ref=e48]: 1 case
+            - generic [ref=e49]:
+              - term [ref=e50]: Quote turnaround
+              - definition [ref=e51]: ≤ 1 day
+        - generic [ref=e52]:
+          - img [ref=e53]
+          - generic [ref=e74]: Ø 52.00
+          - generic [ref=e75]: 6205‑2RS · C3
+      - generic [ref=e77]:
+        - generic [ref=e78]: DEEP GROOVE
+        - generic [ref=e79]: ·
+        - generic [ref=e80]: TAPERED ROLLER
+        - generic [ref=e81]: ·
+        - generic [ref=e82]: SPHERICAL ROLLER
+        - generic [ref=e83]: ·
+        - generic [ref=e84]: CYLINDRICAL
+        - generic [ref=e85]: ·
+        - generic [ref=e86]: ANGULAR CONTACT
+        - generic [ref=e87]: ·
+        - generic [ref=e88]: NEEDLE
+        - generic [ref=e89]: ·
+        - generic [ref=e90]: THRUST
+        - generic [ref=e91]: ·
+        - generic [ref=e92]: PILLOW BLOCK
+        - generic [ref=e93]: ·
+        - generic [ref=e94]: DEEP GROOVE
+        - generic [ref=e95]: ·
+        - generic [ref=e96]: TAPERED ROLLER
+        - generic [ref=e97]: ·
+        - generic [ref=e98]: SPHERICAL ROLLER
+        - generic [ref=e99]: ·
+        - generic [ref=e100]: CYLINDRICAL
+        - generic [ref=e101]: ·
+        - generic [ref=e102]: ANGULAR CONTACT
+        - generic [ref=e103]: ·
+        - generic [ref=e104]: NEEDLE
+        - generic [ref=e105]: ·
+        - generic [ref=e106]: THRUST
+        - generic [ref=e107]: ·
+        - generic [ref=e108]: PILLOW BLOCK
+        - generic [ref=e109]: ·
+    - generic [ref=e111]:
+      - generic [ref=e112]:
+        - paragraph [ref=e113]: 01 — What we do
+        - heading "A Mississauga bearing house, built for the people the big distributors overlook." [level=2] [ref=e115]
+      - generic [ref=e116]:
+        - paragraph [ref=e117]: 4S International is a bearing importer and wholesale distributor supplying anti-friction bearings under HS 8482 to small and mid-size industrial businesses across Canada.
+        - paragraph [ref=e118]:
+          - text: We source directly from manufacturers in
+          - strong [ref=e119]: China, Japan, India, Thailand and Vietnam
+          - text: — then hold local stock in the Pearson Airport industrial corridor so you get factory-direct pricing without factory-direct minimums.
+        - link "Read our story →" [ref=e120] [cursor=pointer]:
+          - /url: about.html
+          - text: Read our story
+          - generic [ref=e121]: →
+    - generic [ref=e122]:
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - paragraph [ref=e126]: 02 — The full range
+          - heading "Every anti-friction bearing, one catalogue." [level=2] [ref=e128]
+        - generic [ref=e129]:
+          - button "Previous slide" [disabled] [ref=e130] [cursor=pointer]: ←
+          - button "Next slide" [ref=e131] [cursor=pointer]: →
+      - generic [ref=e134]:
+        - group "1 / 8" [ref=e135]:
+          - generic [ref=e136]:
+            - generic [ref=e137]: "8482.10"
+            - generic [ref=e138]: Duty · Free
+          - heading "Deep Groove Ball Bearings" [level=3] [ref=e139]:
+            - text: Deep Groove
+            - text: Ball Bearings
+          - paragraph [ref=e140]: The workhorse. Single & double-row, sealed (2RS) and shielded (ZZ), 10–200mm+ bore.
+          - list [ref=e141]:
+            - listitem [ref=e142]: Electric motors
+            - listitem [ref=e143]: Pumps & conveyors
+            - listitem [ref=e144]: HVAC & fans
+          - link "Get a quote →" [ref=e145] [cursor=pointer]:
+            - /url: "#quote"
+        - group "2 / 8" [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]: "8482.20"
+            - generic [ref=e149]: 6.5% · 0% CPTPP
+          - heading "Tapered Roller Bearings" [level=3] [ref=e150]:
+            - text: Tapered
+            - text: Roller Bearings
+          - paragraph [ref=e151]: Heavy combined radial & axial loads. Single, double & four-row; metric and imperial LM series.
+          - list [ref=e152]:
+            - listitem [ref=e153]: Wheel hubs
+            - listitem [ref=e154]: Gearboxes
+            - listitem [ref=e155]: Rolling mills
+          - link "Get a quote →" [ref=e156] [cursor=pointer]:
+            - /url: "#quote"
+        - group "3 / 8" [ref=e157]:
+          - generic [ref=e158]:
+            - generic [ref=e159]: "8482.30"
+            - generic [ref=e160]: Duty · Free
+          - heading "Spherical Roller Bearings" [level=3] [ref=e161]:
+            - text: Spherical
+            - text: Roller Bearings
+          - paragraph [ref=e162]: Self-aligning, built for extreme radial loads, shock and misalignment.
+          - list [ref=e163]:
+            - listitem [ref=e164]: Mining crushers
+            - listitem [ref=e165]: Vibrating screens
+            - listitem [ref=e166]: Paper mill rolls
+          - link "Get a quote →" [ref=e167] [cursor=pointer]:
+            - /url: "#quote"
+        - group "4 / 8" [ref=e168]:
+          - generic [ref=e169]:
+            - generic [ref=e170]: "8482.50"
+            - generic [ref=e171]: 6.5% · 0% CPTPP
+          - heading "Cylindrical Roller Bearings" [level=3] [ref=e172]:
+            - text: Cylindrical
+            - text: Roller Bearings
+          - paragraph [ref=e173]: High radial capacity, separable rings for easy mounting. NU, NJ, NUP & N.
+          - list [ref=e174]:
+            - listitem [ref=e175]: Motors
+            - listitem [ref=e176]: Compressors
+            - listitem [ref=e177]: Gearboxes
+          - link "Get a quote →" [ref=e178] [cursor=pointer]:
+            - /url: "#quote"
+        - group "5 / 8" [ref=e179]:
+          - generic [ref=e180]:
+            - generic [ref=e181]: "8482.10"
+            - generic [ref=e182]: Duty · Free
+          - heading "Angular Contact Ball Bearings" [level=3] [ref=e183]:
+            - text: Angular Contact
+            - text: Ball Bearings
+          - paragraph [ref=e184]: Combined loads in one direction. 15/25/40° angles; DB, DF & DT matched pairs.
+          - list [ref=e185]:
+            - listitem [ref=e186]: Machine-tool spindles
+            - listitem [ref=e187]: Pump shafts
+            - listitem [ref=e188]: Centrifuges
+          - link "Get a quote →" [ref=e189] [cursor=pointer]:
+            - /url: "#quote"
+        - group "6 / 8" [ref=e190]:
+          - generic [ref=e191]:
+            - generic [ref=e192]: "8482.40"
+            - generic [ref=e193]: Duty · MFN
+          - heading "Needle Roller Bearings" [level=3] [ref=e194]:
+            - text: Needle
+            - text: Roller Bearings
+          - paragraph [ref=e195]: High radial loads in tight spaces. Drawn cup, heavy-duty & combined needle/thrust.
+          - list [ref=e196]:
+            - listitem [ref=e197]: Transmissions
+            - listitem [ref=e198]: Hydraulic cylinders
+            - listitem [ref=e199]: Rocker arms
+          - link "Get a quote →" [ref=e200] [cursor=pointer]:
+            - /url: "#quote"
+        - group "7 / 8" [ref=e201]:
+          - generic [ref=e202]:
+            - generic [ref=e203]: "8482.80"
+            - generic [ref=e204]: Duty · MFN
+          - heading "Thrust Bearings" [level=3] [ref=e205]:
+            - text: Thrust
+            - text: Bearings
+          - paragraph [ref=e206]: Pure axial loads. Ball & roller, single- and double-direction configurations.
+          - list [ref=e207]:
+            - listitem [ref=e208]: Crane hooks
+            - listitem [ref=e209]: Turntables
+            - listitem [ref=e210]: Screw jacks
+          - link "Get a quote →" [ref=e211] [cursor=pointer]:
+            - /url: "#quote"
+        - group "8 / 8" [ref=e212]:
+          - generic [ref=e213]:
+            - generic [ref=e214]: "8482.99"
+            - generic [ref=e215]: Duty · Free
+          - heading "Accessories & Mounted Units" [level=3] [ref=e216]:
+            - text: Accessories &
+            - text: Mounted Units
+          - paragraph [ref=e217]: Pillow blocks, flange units, adapter sleeves, lock nuts and seals.
+          - list [ref=e218]:
+            - listitem [ref=e219]: Take-up units
+            - listitem [ref=e220]: Housings
+            - listitem [ref=e221]: Sleeves & seals
+          - link "Get a quote →" [ref=e222] [cursor=pointer]:
+            - /url: "#quote"
+    - generic [ref=e226]:
+      - generic [ref=e227]:
+        - text: "0"
+        - paragraph [ref=e228]: Source countries, three trade frameworks
+      - generic [ref=e229]:
+        - text: "0"
+        - paragraph [ref=e230]: Bearing families across the HS 8482 range
+      - generic [ref=e231]:
+        - text: 0 case
+        - paragraph [ref=e232]: Minimum order — no enterprise gatekeeping
+      - generic [ref=e233]:
+        - text: 0%
+        - paragraph [ref=e234]: ISO 9001 certified manufacturing, every shipment
+    - generic [ref=e236]:
+      - paragraph [ref=e237]: 03 — Industries we serve
+      - heading "Wherever something rotates, we keep it turning." [level=2] [ref=e239]
+      - generic [ref=e240]:
+        - article [ref=e241]:
+          - img [ref=e242]
+          - heading "Manufacturing & Fabrication" [level=3] [ref=e244]
+        - article [ref=e245]:
+          - img [ref=e246]
+          - heading "Food & Beverage Processing" [level=3] [ref=e248]
+        - article [ref=e249]:
+          - img [ref=e250]
+          - heading "Mining & Heavy Equipment" [level=3] [ref=e252]
+        - article [ref=e253]:
+          - img [ref=e254]
+          - heading "Agriculture" [level=3] [ref=e258]
+        - article [ref=e259]:
+          - img [ref=e260]
+          - heading "HVAC & Building Maintenance" [level=3] [ref=e262]
+        - article [ref=e263]:
+          - img [ref=e264]
+          - heading "Automotive & Fleet" [level=3] [ref=e266]
+    - generic [ref=e268]:
+      - paragraph [ref=e269]: 04 — How to order
+      - heading "Three steps. One business day to a quote." [level=2] [ref=e271]
+      - generic [ref=e272]:
+        - article [ref=e273]:
+          - generic [ref=e274]: "01"
+          - heading "Send your specs" [level=3] [ref=e275]
+          - paragraph [ref=e276]: Part number, bearing type, size, quantity and application. Have a branded OEM number? We cross-reference it.
+        - article [ref=e277]:
+          - generic [ref=e278]: "02"
+          - heading "Receive a quote" [level=3] [ref=e279]
+          - paragraph [ref=e280]: We respond within one business day with clear pricing. No hidden fees, no enterprise minimums.
+        - article [ref=e281]:
+          - generic [ref=e282]: "03"
+          - heading "We deliver" [level=3] [ref=e283]
+          - paragraph [ref=e284]: GTA same/next-day, Ontario in 2–3 days, Canada-wide shipping — with certificates of conformity attached.
+    - generic [ref=e286]:
+      - generic [ref=e287]:
+        - paragraph [ref=e288]: 05 — Why 4S International
+        - heading "The advantage is structural, not promotional." [level=2] [ref=e290]
+        - paragraph [ref=e291]: By importing direct under Canada's own MFN and CPTPP duty rates, we skip the US-intermediated markup that inflates bearing prices 15–40%. You get the same specification, ABEC & ISO 492 tolerances — at a fundamentally lower cost base.
+        - link "Start a quote →" [ref=e292] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Start a quote
+          - generic [ref=e293]: →
+      - list [ref=e294]:
+        - listitem [ref=e295]:
+          - generic [ref=e296]: "01"
+          - generic [ref=e297]:
+            - heading "Competitive on every type" [level=3] [ref=e298]
+            - paragraph [ref=e299]: Direct factory FOB sourcing across all bearing families.
+        - listitem [ref=e300]:
+          - generic [ref=e301]: "02"
+          - generic [ref=e302]:
+            - heading "Single-case minimums" [level=3] [ref=e303]
+            - paragraph [ref=e304]: Typically 10–50 units. Order what you actually need.
+        - listitem [ref=e305]:
+          - generic [ref=e306]: "03"
+          - generic [ref=e307]:
+            - heading "Cross-reference service" [level=3] [ref=e308]
+            - paragraph [ref=e309]: Send an SKF, NTN, Timken or NSK number — we match it.
+        - listitem [ref=e310]:
+          - generic [ref=e311]: "04"
+          - generic [ref=e312]:
+            - heading "Documentation, every shipment" [level=3] [ref=e313]
+            - paragraph [ref=e314]: Certificates of conformity & material test reports included.
+        - listitem [ref=e315]:
+          - generic [ref=e316]: "05"
+          - generic [ref=e317]:
+            - heading "Fast, Canada-wide fulfilment" [level=3] [ref=e318]
+            - paragraph [ref=e319]: Local Mississauga stock on high-velocity SKUs.
+    - generic [ref=e321]:
+      - heading "Need a bearing? Send the number." [level=2] [ref=e322]
+      - paragraph [ref=e323]: We'll cross-reference it, confirm the spec, and quote it — usually within one business day.
+      - link "Request a Quote →" [ref=e324] [cursor=pointer]:
+        - /url: "#quote"
+        - text: Request a Quote
+        - generic [ref=e325]: →
+  - contentinfo [ref=e326]:
+    - generic [ref=e327]:
+      - generic [ref=e328]:
+        - link "4S International" [ref=e329] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e330]
+          - generic [ref=e343]: 4S International
+        - paragraph [ref=e344]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e345]:
+        - heading "Navigate" [level=4] [ref=e346]
+        - link "Home" [ref=e347] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e348] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e349] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e350] [cursor=pointer]:
+          - /url: contact.html
+      - generic [ref=e351]:
+        - heading "Visit / Contact" [level=4] [ref=e352]
+        - generic [ref=e353]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e354] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e355]:
+        - heading "Standards" [level=4] [ref=e356]
+        - paragraph [ref=e357]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote" [ref=e358] [cursor=pointer]:
+          - /url: "#quote"
+    - generic [ref=e359]:
+      - generic [ref=e360]: © 2026 4S International Inc.
+      - generic [ref=e361]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e362]:
+        - link "Privacy" [ref=e363] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e364] [cursor=pointer]:
+          - /url: terms-of-sale.html

@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "4S International home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - generic [ref=e18]: 4S International
+      - navigation "Primary" [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: index.html
+        - link "About" [ref=e21] [cursor=pointer]:
+          - /url: about.html
+        - link "Products" [ref=e22] [cursor=pointer]:
+          - /url: products.html
+        - link "Contact" [ref=e23] [cursor=pointer]:
+          - /url: contact.html
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#quote"
+  - text: → → → →
+  - main [ref=e26]:
+    - heading "Terms of Sale" [level=1] [ref=e29]
+    - generic [ref=e31]:
+      - paragraph [ref=e32]: "[ Last updated: add date ]"
+      - note [ref=e33]:
+        - img [ref=e34]
+        - paragraph [ref=e36]:
+          - strong [ref=e37]: Template — not legal advice.
+          - text: This page is a styled placeholder. Replace each bracketed section below with your finalized Terms of Sale, reviewed by qualified counsel, before publishing.
+      - generic [ref=e38]:
+        - heading "1. Introduction" [level=2] [ref=e39]:
+          - generic [ref=e40]: "1."
+          - text: Introduction
+        - generic [ref=e41]: "[ Identify 4S International Inc. and state that these Terms of Sale govern all quotations, orders, and sales of products. ]"
+      - generic [ref=e42]:
+        - heading "2. Quotations and Orders" [level=2] [ref=e43]:
+          - generic [ref=e44]: "2."
+          - text: Quotations and Orders
+        - generic [ref=e45]: "[ Explain quote validity, how orders are placed, and when an order is accepted and becomes binding. ]"
+      - generic [ref=e46]:
+        - heading "3. Pricing and Payment" [level=2] [ref=e47]:
+          - generic [ref=e48]: "3."
+          - text: Pricing and Payment
+        - generic [ref=e49]: "[ State pricing terms, currency, taxes, accepted payment methods, and any payment terms offered to repeat customers. ]"
+      - generic [ref=e50]:
+        - heading "4. Minimum Order Quantities" [level=2] [ref=e51]:
+          - generic [ref=e52]: "4."
+          - text: Minimum Order Quantities
+        - generic [ref=e53]: "[ Describe minimum order requirements (e.g. single-case minimums). ]"
+      - generic [ref=e54]:
+        - heading "5. Shipping and Delivery" [level=2] [ref=e55]:
+          - generic [ref=e56]: "5."
+          - text: Shipping and Delivery
+        - generic [ref=e57]: "[ Set out shipping methods, delivery timeframes, freight responsibility, risk of loss, and title transfer. ]"
+      - generic [ref=e58]:
+        - heading "6. Product Specifications and Cross-Reference" [level=2] [ref=e59]:
+          - generic [ref=e60]: "6."
+          - text: Product Specifications and Cross-Reference
+        - generic [ref=e61]: "[ Clarify how cross-referenced equivalents to branded part numbers are quoted and the customer's responsibility to confirm suitability. ]"
+      - generic [ref=e62]:
+        - heading "7. Returns and Warranty" [level=2] [ref=e63]:
+          - generic [ref=e64]: "7."
+          - text: Returns and Warranty
+        - generic [ref=e65]: "[ Describe the returns process, warranty coverage, certificates of conformity and material test reports, and any limitations. ]"
+      - generic [ref=e66]:
+        - heading "8. Limitation of Liability" [level=2] [ref=e67]:
+          - generic [ref=e68]: "8."
+          - text: Limitation of Liability
+        - generic [ref=e69]: "[ State the limitations and exclusions of liability that apply to products and the sale. ]"
+      - generic [ref=e70]:
+        - heading "9. Force Majeure" [level=2] [ref=e71]:
+          - generic [ref=e72]: "9."
+          - text: Force Majeure
+        - generic [ref=e73]: "[ Address events beyond reasonable control that may affect supply or delivery. ]"
+      - generic [ref=e74]:
+        - heading "10. Governing Law" [level=2] [ref=e75]:
+          - generic [ref=e76]: "10."
+          - text: Governing Law
+        - generic [ref=e77]: "[ Specify the governing law and jurisdiction (e.g. the Province of Ontario and the laws of Canada). ]"
+      - generic [ref=e78]:
+        - heading "11. Contact" [level=2] [ref=e79]:
+          - generic [ref=e80]: "11."
+          - text: Contact
+        - generic [ref=e81]:
+          - text: "[ Provide the contact point for questions about these terms. Company contact details are on the"
+          - link "Contact" [ref=e82] [cursor=pointer]:
+            - /url: contact.html
+          - text: page. ]
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - heading "Request a Quote" [level=2] [ref=e86]
+        - paragraph [ref=e87]: We respond within one business day with a quote. No hidden fees.
+        - generic [ref=e88]:
+          - link "Request a Quote →" [ref=e89] [cursor=pointer]:
+            - /url: "#quote"
+            - text: Request a Quote
+            - generic [ref=e90]: →
+          - link "info@4sinternational.ca" [ref=e91] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+      - img [ref=e93]
+  - contentinfo [ref=e101]:
+    - text: 4S International
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - link "4S International" [ref=e104] [cursor=pointer]:
+          - /url: index.html
+          - img [ref=e105]
+          - generic [ref=e118]: 4S International
+        - paragraph [ref=e119]: Anti-friction bearings, direct to Canadian industry.
+      - generic [ref=e120]:
+        - heading "Navigate" [level=4] [ref=e121]:
+          - button "Navigate" [ref=e122]
+        - generic [ref=e123]:
+          - link "Home" [ref=e124] [cursor=pointer]:
+            - /url: index.html
+          - link "About" [ref=e125] [cursor=pointer]:
+            - /url: about.html
+          - link "Products" [ref=e126] [cursor=pointer]:
+            - /url: products.html
+          - link "Contact" [ref=e127] [cursor=pointer]:
+            - /url: contact.html
+      - generic [ref=e128]:
+        - heading "Visit / Contact" [level=4] [ref=e129]:
+          - button "Visit / Contact" [ref=e130]
+        - generic [ref=e132]:
+          - text: Unit 11, 3400 Ridgeway Dr
+          - text: Mississauga, ON L5L 5Y6
+          - link "info@4sinternational.ca" [ref=e133] [cursor=pointer]:
+            - /url: mailto:info@4sinternational.ca
+          - text: Mon–Fri · 8:00–17:00 EST
+      - generic [ref=e134]:
+        - heading "Standards" [level=4] [ref=e135]
+        - paragraph [ref=e136]:
+          - text: ISO 9001 · ABEC · ISO 492
+          - text: HS 8482 · NAICS 417230
+        - link "Request a Quote →" [ref=e137] [cursor=pointer]:
+          - /url: "#quote"
+          - text: Request a Quote
+          - generic [ref=e138]: →
+    - generic [ref=e139]:
+      - generic [ref=e140]: © 2026 4S International Inc.
+      - generic [ref=e141]: Federally incorporated · Canada (CBCA)
+      - generic [ref=e142]:
+        - link "Privacy" [ref=e143] [cursor=pointer]:
+          - /url: privacy-policy.html
+        - text: ·
+        - link "Terms of Sale" [ref=e144] [cursor=pointer]:
+          - /url: terms-of-sale.html
+      - link "Made by SKLENTR" [ref=e145] [cursor=pointer]:
+        - /url: https://www.sklentr.com/
+        - text: Made by
+        - img [ref=e146]
+        - strong [ref=e148]: SKLENTR

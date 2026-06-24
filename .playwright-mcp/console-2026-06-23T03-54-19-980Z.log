@@ -1,0 +1,12 @@
+[     222ms] [WARNING] GSAP target .eyebrow--reveal not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     223ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     224ms] [WARNING] GSAP target .hero__title .line not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     224ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     225ms] [WARNING] GSAP target .hero__sub not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     227ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     229ms] [WARNING] GSAP target .hero__cta > * not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     230ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     230ms] [WARNING] GSAP target .hero__spec > div not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     230ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     230ms] [WARNING] GSAP target .hero__bearing not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9
+[     230ms] [WARNING] GSAP target  not found. https://gsap.com @ https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js:9

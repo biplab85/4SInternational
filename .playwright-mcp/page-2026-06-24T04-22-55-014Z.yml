@@ -1,0 +1,802 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - list "Quick contact" [ref=e4]:
+      - listitem [ref=e5]:
+        - img [ref=e6]
+        - link "02 9592 5452" [ref=e8] [cursor=pointer]:
+          - /url: tel:0295925452
+      - listitem [ref=e9]:
+        - img [ref=e10]
+        - link "info@effective-pestcontrol.com.au" [ref=e12] [cursor=pointer]:
+          - /url: mailto:info@effective-pestcontrol.com.au
+      - listitem [ref=e13]:
+        - img [ref=e14]
+        - generic [ref=e16]: Sydney & Greater Sydney
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: ★★★★★
+        - generic [ref=e20]: 5.0 · Sydney-trusted since 1989
+      - list "Social media" [ref=e21]:
+        - listitem [ref=e22]:
+          - link "Facebook" [ref=e23] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e24]
+        - listitem [ref=e26]:
+          - link "Instagram" [ref=e27] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e28]
+  - banner [ref=e30]:
+    - generic [ref=e31]:
+      - link "Effective Pest Control — Home" [ref=e32] [cursor=pointer]:
+        - /url: "#home"
+        - img "Effective Pest Control" [ref=e33]
+      - navigation "Primary" [ref=e34]:
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - link "Home" [ref=e37] [cursor=pointer]:
+              - /url: "#home"
+          - listitem [ref=e38]:
+            - link "About" [ref=e39] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e40]:
+            - link "Team" [ref=e41] [cursor=pointer]:
+              - /url: "#team"
+          - listitem [ref=e42]:
+            - link "Services" [ref=e43] [cursor=pointer]:
+              - /url: "#services"
+          - listitem [ref=e44]:
+            - link "Why us" [ref=e45] [cursor=pointer]:
+              - /url: "#why-us"
+          - listitem [ref=e46]:
+            - link "Reviews" [ref=e47] [cursor=pointer]:
+              - /url: "#testimonials"
+          - listitem [ref=e48]:
+            - link "FAQ" [ref=e49] [cursor=pointer]:
+              - /url: "#faq"
+          - listitem [ref=e50]:
+            - link "Contact" [ref=e51] [cursor=pointer]:
+              - /url: "#contact"
+      - link "Call 02 9592 5452" [ref=e52] [cursor=pointer]:
+        - /url: tel:0295925452
+        - generic [ref=e54]:
+          - text: Call
+          - strong [ref=e55]: 02 9592 5452
+  - generic [ref=e56]:
+    - generic [ref=e57]: +
+    - generic [ref=e58]: +
+    - generic [ref=e59]: +
+    - generic [ref=e60]: +
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - paragraph [ref=e63]:
+          - generic [ref=e64]: +
+          - text: Family-owned · Sydney · est. 1989
+        - heading "Sydney's smallest specialists. Biggest difference." [level=1] [ref=e65]:
+          - generic [ref=e66]:
+            - text: Sydney's
+            - emphasis [ref=e67]: smallest
+          - generic [ref=e68]: specialists.
+          - generic [ref=e69]: Biggest difference.
+        - paragraph [ref=e70]:
+          - text: "Cockroaches, rodents, termites, spiders — we handle the things you'd rather not. Two technicians. Thirty-five years. One promise:"
+          - strong [ref=e71]: do it once, do it right.
+        - generic [ref=e72]:
+          - link "Get a free quote" [ref=e73] [cursor=pointer]:
+            - /url: "#contact"
+            - generic [ref=e74]: Get a free quote
+            - img [ref=e75]
+          - link "See services" [ref=e77] [cursor=pointer]:
+            - /url: "#services"
+            - generic [ref=e78]: See services
+        - list [ref=e79]:
+          - listitem [ref=e80]:
+            - generic [ref=e81]:
+              - text: "35"
+              - superscript [ref=e82]: +
+            - generic [ref=e83]: years on the job
+          - listitem [ref=e84]:
+            - generic [ref=e85]:
+              - text: "6"
+              - subscript [ref=e86]: mo
+            - generic [ref=e87]: warranty coverage
+          - listitem [ref=e88]:
+            - generic [ref=e89]: 60min
+            - generic [ref=e90]: metro response
+      - complementary [ref=e91]:
+        - generic: "35"
+        - figure "Protecting Sydney homes since 1989" [ref=e92]:
+          - img "EPC technician inspecting a Sydney roof cavity" [ref=e93]
+          - generic [ref=e94]: Protecting Sydney homes since 1989
+        - generic [ref=e96]:
+          - generic [ref=e97]: ★★★★★
+          - strong [ref=e98]: 5.0 / 5.0
+          - emphasis [ref=e99]: 200+ verified reviews
+  - generic [ref=e101]:
+    - generic [ref=e102]:
+      - text: Cockroaches
+      - generic [ref=e103]: +
+    - generic [ref=e104]:
+      - text: Rodents
+      - generic [ref=e105]: +
+    - generic [ref=e106]:
+      - text: Termites
+      - generic [ref=e107]: +
+    - generic [ref=e108]:
+      - text: Spiders
+      - generic [ref=e109]: +
+    - generic [ref=e110]:
+      - text: Ants
+      - generic [ref=e111]: +
+    - generic [ref=e112]:
+      - text: Silverfish
+      - generic [ref=e113]: +
+    - generic [ref=e114]:
+      - text: Carpet Beetles
+      - generic [ref=e115]: +
+    - generic [ref=e116]:
+      - text: Crickets
+      - generic [ref=e117]: +
+    - generic [ref=e118]:
+      - text: Cockroaches
+      - generic [ref=e119]: +
+    - generic [ref=e120]:
+      - text: Rodents
+      - generic [ref=e121]: +
+    - generic [ref=e122]:
+      - text: Termites
+      - generic [ref=e123]: +
+    - generic [ref=e124]:
+      - text: Spiders
+      - generic [ref=e125]: +
+    - generic [ref=e126]:
+      - text: Ants
+      - generic [ref=e127]: +
+    - generic [ref=e128]:
+      - text: Silverfish
+      - generic [ref=e129]: +
+    - generic [ref=e130]:
+      - text: Carpet Beetles
+      - generic [ref=e131]: +
+    - generic [ref=e132]:
+      - text: Crickets
+      - generic [ref=e133]: +
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - figure [ref=e137]:
+        - img "Senior EPC technician inspecting a roof cavity" [ref=e138]
+      - figure [ref=e139]:
+        - img "EPC technician at his work van" [ref=e140]
+      - generic [ref=e141]:
+        - generic [ref=e142]: est.
+        - strong [ref=e143]: "1989"
+    - generic [ref=e144]:
+      - paragraph [ref=e145]:
+        - generic [ref=e146]: +
+        - text: About us
+      - heading "Family-owned. Sydney-trusted. Two technicians who actually show up." [level=2] [ref=e147]:
+        - text: Family-owned.
+        - emphasis [ref=e148]: Sydney-trusted.
+        - text: Two technicians who actually show up.
+      - paragraph [ref=e149]:
+        - text: Effective Pest Control was started by a family who got tired of pest companies that overpromised, overcharged, and disappeared. Thirty-five years later,
+        - strong [ref=e150]: Brad
+        - text: and
+        - strong [ref=e151]: Dean
+        - text: still handle every job personally — across homes, restaurants, schools, aged-care facilities and property portfolios from Sydney through Greater Sydney.
+      - list [ref=e152]:
+        - listitem [ref=e153]:
+          - generic [ref=e154]: "01"
+          - generic [ref=e155]:
+            - heading "One quote. One price." [level=4] [ref=e156]
+            - paragraph [ref=e157]: No surprise call-outs, no upsells. The number we give you is the number you pay.
+        - listitem [ref=e158]:
+          - generic [ref=e159]: "02"
+          - generic [ref=e160]:
+            - heading "Treat once. Stay protected." [level=4] [ref=e161]
+            - paragraph [ref=e162]: Our general treatments come with up to six months of coverage — built in, not extra.
+        - listitem [ref=e163]:
+          - generic [ref=e164]: "03"
+          - generic [ref=e165]:
+            - heading "The same two faces." [level=4] [ref=e166]
+            - paragraph [ref=e167]: Brad and Dean run every job. No revolving subcontractors. No new strangers each visit.
+      - link "Talk to Brad or Dean" [ref=e168] [cursor=pointer]:
+        - /url: "#contact"
+        - text: Talk to Brad or Dean
+        - img [ref=e169]
+  - generic [ref=e171]:
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - paragraph [ref=e174]:
+          - generic [ref=e175]: +
+          - text: Meet the team
+        - heading "The people behind the badge on the door." [level=2] [ref=e176]:
+          - text: The people
+          - emphasis [ref=e177]: behind
+          - text: the badge on the door.
+      - paragraph [ref=e178]:
+        - text: A small, tight crew that shows up, gets it right, and leaves no mess behind.
+        - strong [ref=e179]: Drag
+        - text: the ring or use the arrows — you'll see the same faces year after year. That's the point.
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - generic [ref=e184]:
+          - generic [ref=e185]: "01"
+          - strong [ref=e186]: Field Technician
+          - emphasis [ref=e187]: General & commercial pest treatments
+        - generic [ref=e190]:
+          - generic [ref=e191]: "02"
+          - strong [ref=e192]: Lead Technician
+          - emphasis [ref=e193]: Residential & strata specialist
+        - generic [ref=e196]:
+          - generic [ref=e197]: "03"
+          - strong [ref=e198]: Termite Inspector
+          - emphasis [ref=e199]: Annual inspections & reports
+        - generic [ref=e202]:
+          - generic [ref=e203]: "04"
+          - strong [ref=e204]: Rodent Control Lead
+          - emphasis [ref=e205]: Internal & external treatments
+        - generic [ref=e208]:
+          - generic [ref=e209]: "05"
+          - strong [ref=e210]: Field Technician
+          - emphasis [ref=e211]: Cockroach & ant treatments
+        - generic [ref=e214]:
+          - generic [ref=e215]: "06"
+          - strong [ref=e216]: Commercial Technician
+          - emphasis [ref=e217]: Restaurants, schools & aged-care
+        - generic [ref=e220]:
+          - generic [ref=e221]: "07"
+          - strong [ref=e222]: Senior Technician
+          - emphasis [ref=e223]: Complex jobs & quality control
+        - generic [ref=e226]:
+          - generic [ref=e227]: "08"
+          - strong [ref=e228]: Field Technician
+          - emphasis [ref=e229]: Spiders & general pests
+      - generic: ↔ drag or swipe
+    - generic [ref=e230]:
+      - button "Previous team member" [ref=e231] [cursor=pointer]:
+        - img [ref=e232]
+      - generic [ref=e234]: 01 of 08
+      - button "Next team member" [ref=e235] [cursor=pointer]:
+        - img [ref=e236]
+  - generic [ref=e238]:
+    - generic:
+      - img
+      - img
+      - img
+      - img
+      - img
+      - img
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - paragraph [ref=e241]:
+          - generic [ref=e242]: +
+          - text: What we treat
+        - heading "Four services. Six-month peace of mind." [level=2] [ref=e243]:
+          - text: Four services.
+          - emphasis [ref=e244]: Six-month
+          - text: peace of mind.
+        - paragraph [ref=e245]: Every treatment is calibrated to the pest, the property, and the season. We don't bait with hardware-store chemicals — we use professional-grade products applied by people who've seen every infestation Sydney can throw at them.
+      - generic [ref=e246]:
+        - article [ref=e247]:
+          - generic [ref=e248]: "01"
+          - heading "General Pest Treatments" [level=3] [ref=e249]
+          - paragraph [ref=e250]: The all-rounder. One visit, six months of coverage against the eight pests most likely to show up in a Sydney home or workplace.
+          - list [ref=e251]:
+            - listitem [ref=e252]: + Cockroaches
+            - listitem [ref=e253]: + Spiders
+            - listitem [ref=e254]: + Ants
+            - listitem [ref=e255]: + Crickets
+            - listitem [ref=e256]: + Carpet beetles
+            - listitem [ref=e257]: + Silverfish
+          - generic [ref=e258]:
+            - generic [ref=e259]: Most booked
+            - link "Book this treatment" [ref=e260] [cursor=pointer]:
+              - /url: "#contact"
+              - text: Book this treatment
+              - img [ref=e261]
+        - article [ref=e263]:
+          - generic [ref=e264]: "02"
+          - heading "Rodent Control" [level=3] [ref=e265]
+          - paragraph [ref=e266]: Mice and rats — inside the walls, in the roof cavity, in the yard. We hunt them all, internally and externally.
+          - link "Get help today" [ref=e267] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Get help today
+            - img [ref=e268]
+        - article [ref=e270]:
+          - generic [ref=e271]: "03"
+          - heading "Termite Inspections" [level=3] [ref=e272]
+          - paragraph [ref=e273]: Annual inspections are cheap. Termite damage isn't. We do a thorough, written-report inspection that catches activity before it costs you.
+          - link "Book an inspection" [ref=e274] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Book an inspection
+            - img [ref=e275]
+        - article [ref=e277]:
+          - generic [ref=e278]: "04"
+          - heading "German Cockroach Treatment" [level=3] [ref=e279]
+          - paragraph [ref=e280]: Tougher, smaller, faster-breeding — German cockroaches need a targeted protocol. We use one. It works.
+          - link "Specialist treatment" [ref=e281] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Specialist treatment
+            - img [ref=e282]
+        - article [ref=e284]:
+          - generic [ref=e285]: "05"
+          - heading "Commercial & Strata" [level=3] [ref=e286]
+          - paragraph [ref=e287]: Restaurants, cafés, schools, aged-care kitchens, strata buildings and property portfolios. After-hours scheduling, compliant reporting, food-safe products.
+          - link "Commercial programs" [ref=e288] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Commercial programs
+            - img [ref=e289]
+        - article [ref=e291]:
+          - generic [ref=e292]: "06"
+          - generic: $0
+          - heading "Free quote & on-site visit" [level=3] [ref=e293]
+          - paragraph [ref=e294]: Not sure what you're dealing with? We'll come out, look it over, and tell you exactly what it'll take — no charge, no obligation. You'll know the number before we lift a finger.
+          - list [ref=e295]:
+            - listitem [ref=e296]: Same-day metro callouts
+            - listitem [ref=e297]: Written quote on the spot
+            - listitem [ref=e298]: Honest advice — even if you don't need us
+          - link "Call 02 9592 5452" [ref=e299] [cursor=pointer]:
+            - /url: tel:0295925452
+            - generic [ref=e300]: Call 02 9592 5452
+            - img [ref=e301]
+      - paragraph [ref=e303]:
+        - text: All general treatments include up to
+        - strong [ref=e305]: 6-month coverage
+        - text: ". Ant warranty: 3 months."
+    - text: +
+  - generic [ref=e307]:
+    - generic [ref=e308]:
+      - paragraph [ref=e309]:
+        - generic [ref=e310]: +
+        - text: Why us
+      - heading "Six reasons your last pest visit should be your last one." [level=2] [ref=e311]:
+        - text: Six reasons your
+        - emphasis [ref=e312]: last
+        - text: pest visit
+        - text: should be your
+        - emphasis [ref=e313]: last
+        - text: one.
+    - generic [ref=e314]:
+      - article [ref=e315]:
+        - text: +
+        - generic [ref=e316]: "01"
+        - heading "Long-term solutions" [level=4] [ref=e317]
+        - paragraph [ref=e318]: Six months of protection baked into every general treatment. Not an upsell — the standard.
+      - article [ref=e319]:
+        - text: +
+        - generic [ref=e320]: "02"
+        - heading "Family-operated" [level=4] [ref=e321]
+        - paragraph [ref=e322]: Brad and Dean answer the phone, do the job, and remember your name two years later.
+      - article [ref=e323]:
+        - text: +
+        - generic [ref=e324]: "03"
+        - heading "Transparent pricing" [level=4] [ref=e325]
+        - paragraph [ref=e326]: Quotes are quotes. Invoices match them. The first conversation is the same as the last one.
+      - article [ref=e327]:
+        - text: +
+        - generic [ref=e328]: "04"
+        - heading "Trained technicians" [level=4] [ref=e329]
+        - paragraph [ref=e330]: Licensed, insured, and trained on every pest Sydney has. No apprentices learning on your kitchen.
+      - article [ref=e331]:
+        - text: +
+        - generic [ref=e332]: "05"
+        - heading "On time, every time" [level=4] [ref=e333]
+        - paragraph [ref=e334]: Metro Sydney callouts within sixty minutes when you need them. We don't run on "pest-control time."
+      - article [ref=e335]:
+        - text: +
+        - generic [ref=e336]: "06"
+        - heading "Homes & businesses" [level=4] [ref=e337]
+        - paragraph [ref=e338]: Restaurants, schools, aged-care, strata, real estate, your house — we handle all of it, properly.
+  - generic [ref=e340]:
+    - generic [ref=e341]:
+      - paragraph [ref=e342]:
+        - generic [ref=e343]: +
+        - text: Pests don't wait
+      - heading "Found something crawling? We're one phone call from gone." [level=2] [ref=e344]:
+        - text: Found something
+        - emphasis [ref=e345]: crawling
+        - text: "?"
+        - text: We're one phone call from
+        - emphasis [ref=e346]: gone
+        - text: .
+    - generic [ref=e347]:
+      - link "02 9592 5452" [ref=e348] [cursor=pointer]:
+        - /url: tel:0295925452
+        - generic [ref=e350]: 02 9592 5452
+      - link "Request a callback" [ref=e351] [cursor=pointer]:
+        - /url: "#contact"
+  - generic [ref=e353]:
+    - complementary [ref=e354]:
+      - paragraph [ref=e355]:
+        - generic [ref=e356]: +
+        - text: Before we arrive
+      - heading "A five-minute prep checklist." [level=2] [ref=e357]:
+        - text: A five-minute
+        - emphasis [ref=e358]: prep checklist.
+      - paragraph [ref=e359]: A quick prep makes the treatment more effective and gets you back into your home faster. Here's what to do before we pull up.
+    - list [ref=e360]:
+      - listitem [ref=e361]:
+        - generic [ref=e362]: "01"
+        - generic [ref=e363]:
+          - heading "Vacate during spraying" [level=4] [ref=e364]
+          - paragraph [ref=e365]:
+            - text: Step out for the duration of the spray, then return after about
+            - strong [ref=e366]: 1–2 hours
+            - text: once the chemical has settled.
+      - listitem [ref=e367]:
+        - generic [ref=e368]: "02"
+        - generic [ref=e369]:
+          - heading "Pull in clothes & towels" [level=4] [ref=e370]
+          - paragraph [ref=e371]: Bring in anything hanging on the line so it doesn't catch overspray during external treatment.
+      - listitem [ref=e372]:
+        - generic [ref=e373]: "03"
+        - generic [ref=e374]:
+          - heading "Clear the skirting" [level=4] [ref=e375]
+          - paragraph [ref=e376]: Move clutter away from skirting boards and inside corners — that's where most of the work happens.
+      - listitem [ref=e377]:
+        - generic [ref=e378]: "04"
+        - generic [ref=e379]:
+          - heading "Keep driveways clear" [level=4] [ref=e380]
+          - paragraph [ref=e381]: We'll need a parking spot close to the property so we're not running cables and gear across the street.
+      - listitem [ref=e382]:
+        - generic [ref=e383]: "05"
+        - generic [ref=e384]:
+          - heading "Watch the weather" [level=4] [ref=e385]
+          - paragraph [ref=e386]: Heavy rain reduces effectiveness of external sprays — we may need to reschedule. We'll always call ahead.
+  - generic [ref=e388]:
+    - generic [ref=e389]:
+      - paragraph [ref=e390]:
+        - generic [ref=e391]: +
+        - text: What our clients say
+      - heading "Loved by Sydney for thirty-five years." [level=2] [ref=e392]:
+        - text: Loved by
+        - emphasis [ref=e393]: Sydney
+        - text: for thirty-five years.
+    - generic [ref=e395]:
+      - article [ref=e396]:
+        - generic [ref=e397]: "\""
+        - paragraph [ref=e398]: Brad and Dean have looked after our family home for around ten years plus. Always on time, always thorough, and our place has stayed pest-free the whole way through.
+        - generic [ref=e399]:
+          - generic [ref=e400]: Melissa O'Grady
+          - generic [ref=e401]: Homeowner · Lane Cove
+      - article [ref=e402]:
+        - generic [ref=e403]: "\""
+        - paragraph [ref=e404]: We run a busy café and pest control has to be invisible. These guys come outside service hours, leave no mess, and we've never had a complaint in seven years.
+        - generic [ref=e405]:
+          - generic [ref=e406]: Joanne Smith
+          - generic [ref=e407]: Café owner · Bondi Junction
+      - article [ref=e408]:
+        - generic [ref=e409]: "\""
+        - paragraph [ref=e410]: Honest, friendly, and properly thorough. They told me what was wrong, what would fix it, and what didn't actually need doing. That's rare.
+        - generic [ref=e411]:
+          - generic [ref=e412]: Marina Zimmerman
+          - generic [ref=e413]: Homeowner · Mosman
+      - article [ref=e414]:
+        - generic [ref=e415]: "\""
+        - paragraph [ref=e416]: A wonderful, professional, hard-working team. They've treated our place for years and I'd recommend them to anyone who wants a job done properly the first time.
+        - generic [ref=e417]:
+          - generic [ref=e418]: Mary T.
+          - generic [ref=e419]: Property manager
+      - article [ref=e420]:
+        - generic [ref=e421]: "\""
+        - paragraph [ref=e422]: Pricing was upfront, the work was clean, and the six-month warranty actually means something — when one ant trail came back they were here within the day. No questions.
+        - generic [ref=e423]:
+          - generic [ref=e424]: Sara Tapia
+          - generic [ref=e425]: Homeowner · Earlwood
+      - article [ref=e426]:
+        - generic [ref=e427]: "\""
+        - paragraph [ref=e428]: I've used a lot of pest companies. This is the only one I trust to give the same advice to my parents that they'd give to a paying commercial client. Genuinely good people.
+        - generic [ref=e429]:
+          - generic [ref=e430]: Stewart Leicht
+          - generic [ref=e431]: Strata · Inner West
+      - article [ref=e432]:
+        - generic [ref=e433]: "\""
+        - paragraph [ref=e434]: Brad and Dean have looked after our family home for around ten years plus. Always on time, always thorough, and our place has stayed pest-free the whole way through.
+        - generic [ref=e435]:
+          - generic [ref=e436]: Melissa O'Grady
+          - generic [ref=e437]: Homeowner · Lane Cove
+      - article [ref=e438]:
+        - generic [ref=e439]: "\""
+        - paragraph [ref=e440]: We run a busy café and pest control has to be invisible. These guys come outside service hours, leave no mess, and we've never had a complaint in seven years.
+        - generic [ref=e441]:
+          - generic [ref=e442]: Joanne Smith
+          - generic [ref=e443]: Café owner · Bondi Junction
+      - article [ref=e444]:
+        - generic [ref=e445]: "\""
+        - paragraph [ref=e446]: Honest, friendly, and properly thorough. They told me what was wrong, what would fix it, and what didn't actually need doing. That's rare.
+        - generic [ref=e447]:
+          - generic [ref=e448]: Marina Zimmerman
+          - generic [ref=e449]: Homeowner · Mosman
+      - article [ref=e450]:
+        - generic [ref=e451]: "\""
+        - paragraph [ref=e452]: A wonderful, professional, hard-working team. They've treated our place for years and I'd recommend them to anyone who wants a job done properly the first time.
+        - generic [ref=e453]:
+          - generic [ref=e454]: Mary T.
+          - generic [ref=e455]: Property manager
+      - article [ref=e456]:
+        - generic [ref=e457]: "\""
+        - paragraph [ref=e458]: Pricing was upfront, the work was clean, and the six-month warranty actually means something — when one ant trail came back they were here within the day. No questions.
+        - generic [ref=e459]:
+          - generic [ref=e460]: Sara Tapia
+          - generic [ref=e461]: Homeowner · Earlwood
+      - article [ref=e462]:
+        - generic [ref=e463]: "\""
+        - paragraph [ref=e464]: I've used a lot of pest companies. This is the only one I trust to give the same advice to my parents that they'd give to a paying commercial client. Genuinely good people.
+        - generic [ref=e465]:
+          - generic [ref=e466]: Stewart Leicht
+          - generic [ref=e467]: Strata · Inner West
+  - generic [ref=e469]:
+    - complementary [ref=e470]:
+      - paragraph [ref=e471]:
+        - generic [ref=e472]: +
+        - text: FAQ
+      - heading "The questions we hear most." [level=2] [ref=e473]:
+        - text: The questions
+        - text: we hear
+        - emphasis [ref=e474]: most.
+      - paragraph [ref=e475]: Thirteen of the things people ask us most often — about safety, scheduling, warranty, and what happens after the spray dries.
+      - link "Ask us anything else" [ref=e476] [cursor=pointer]:
+        - /url: "#contact"
+        - text: Ask us anything else
+        - img [ref=e477]
+    - list [ref=e479]:
+      - listitem [ref=e480]:
+        - button "01 What should I do if I find termites?" [ref=e481] [cursor=pointer]:
+          - generic [ref=e482]: "01"
+          - generic [ref=e483]: What should I do if I find termites?
+        - generic:
+          - paragraph: Don't disturb them. Don't spray store-bought repellent on them — that scatters the colony and makes detection harder. Call us and we'll book an inspection. Termite work needs to be done in a specific order to actually solve the problem.
+      - listitem [ref=e485]:
+        - button "02 How often should I have my home inspected?" [ref=e486] [cursor=pointer]:
+          - generic [ref=e487]: "02"
+          - generic [ref=e488]: How often should I have my home inspected?
+        - generic:
+          - paragraph:
+            - text: "For termites:"
+            - strong [ref=e490]: annually
+            - text: ". For general pest activity: a refresher treatment every six to twelve months keeps things quiet. Sydney's climate is forgiving to pests — yearly is the floor, not the ceiling."
+      - listitem [ref=e491]:
+        - button "03 Are the chemicals safe for children and pets?" [ref=e492] [cursor=pointer]:
+          - generic [ref=e493]: "03"
+          - generic [ref=e494]: Are the chemicals safe for children and pets?
+        - generic:
+          - paragraph: Yes — once they've dried. We use professional, registered products applied in low concentration to surfaces, not in the air. We ask everyone to leave during application and return after 1–2 hours, by which point everything is settled and safe.
+      - listitem [ref=e496]:
+        - button "04 When should I clean carpets after a treatment?" [ref=e497] [cursor=pointer]:
+          - generic [ref=e498]: "04"
+          - generic [ref=e499]: When should I clean carpets after a treatment?
+        - generic:
+          - paragraph:
+            - text: Wait at least
+            - strong [ref=e501]: two weeks
+            - text: . Steam cleaning earlier removes the residual treatment from carpet fibers and shortens the warranty period.
+      - listitem [ref=e502]:
+        - button "05 What should I expect after treatment?" [ref=e503] [cursor=pointer]:
+          - generic [ref=e504]: "05"
+          - generic [ref=e505]: What should I expect after treatment?
+        - generic:
+          - paragraph: A spike in activity for a few days is normal — that's pests being flushed out of harborage. Within a week activity drops sharply. By two weeks, you should see very little. If you don't, call us and we'll come back.
+      - listitem [ref=e507]:
+        - button "06 Do you need access to the whole house?" [ref=e508] [cursor=pointer]:
+          - generic [ref=e509]: "06"
+          - generic [ref=e510]: Do you need access to the whole house?
+        - generic:
+          - paragraph: "Yes — internal treatment needs every accessible room: kitchens, bathrooms, bedrooms, laundry, garage. Roof and subfloor access if available. Skipping rooms creates pest \"safe zones\" that recolonize the rest of the house."
+      - listitem [ref=e512]:
+        - button "07 What warranty do you offer?" [ref=e513] [cursor=pointer]:
+          - generic [ref=e514]: "07"
+          - generic [ref=e515]: What warranty do you offer?
+        - generic:
+          - paragraph:
+            - strong [ref=e517]: Six months
+            - text: on general pest treatments.
+            - strong [ref=e518]: Three months
+            - text: on ants (ants are seasonal and behave differently). If pests come back inside the warranty window, so do we — at no extra cost.
+      - listitem [ref=e519]:
+        - button "08 How long does a treatment take?" [ref=e520] [cursor=pointer]:
+          - generic [ref=e521]: "08"
+          - generic [ref=e522]: How long does a treatment take?
+        - generic:
+          - paragraph: "A standard home: 45 minutes to an hour. A larger home or a commercial site: 90 minutes to two hours. Termite inspections sit in the same range depending on roof and subfloor access."
+      - listitem [ref=e524]:
+        - button "09 Do you treat strata properties?" [ref=e525] [cursor=pointer]:
+          - generic [ref=e526]: "09"
+          - generic [ref=e527]: Do you treat strata properties?
+        - generic:
+          - paragraph: Yes — common areas, individual units, and full-building programs. We work directly with strata managers and property managers and provide compliant reporting after every visit.
+      - listitem [ref=e529]:
+        - button "10 Can you handle restaurants and food premises?" [ref=e530] [cursor=pointer]:
+          - generic [ref=e531]: "10"
+          - generic [ref=e532]: Can you handle restaurants and food premises?
+        - generic:
+          - paragraph: Yes — we work with restaurants, cafés, aged-care kitchens and schools. Treatments are scheduled outside service hours, use food-safe products, and come with the documentation councils ask for during audits.
+      - listitem [ref=e534]:
+        - button "11 What areas do you service?" [ref=e535] [cursor=pointer]:
+          - generic [ref=e536]: "11"
+          - generic [ref=e537]: What areas do you service?
+        - generic:
+          - paragraph: Sydney Metro and Greater Sydney. Most metro callouts run within 60 minutes. If you're not sure whether we cover your suburb, ring us — we usually do.
+      - listitem [ref=e539]:
+        - button "12 Do you offer one-off jobs, or only contracts?" [ref=e540] [cursor=pointer]:
+          - generic [ref=e541]: "12"
+          - generic [ref=e542]: Do you offer one-off jobs, or only contracts?
+        - generic:
+          - paragraph: Both. Most residential jobs are one-off treatments with a six-month warranty. Commercial sites usually prefer a scheduled program. We'll recommend whichever actually fits your situation — no contracts pushed for the sake of contracts.
+      - listitem [ref=e544]:
+        - button "13 How do I book?" [ref=e545] [cursor=pointer]:
+          - generic [ref=e546]: "13"
+          - generic [ref=e547]: How do I book?
+        - generic:
+          - paragraph:
+            - text: Call
+            - link "02 9592 5452" [ref=e549] [cursor=pointer]:
+              - /url: tel:0295925452
+              - strong [ref=e550]: 02 9592 5452
+            - text: ", email"
+            - link "info@effective-pestcontrol.com.au" [ref=e551] [cursor=pointer]:
+              - /url: mailto:info@effective-pestcontrol.com.au
+            - text: ", or fill in the form below. We answer the phone ourselves — no call centre."
+  - generic [ref=e553]:
+    - generic [ref=e554]:
+      - paragraph [ref=e555]:
+        - generic [ref=e556]: +
+        - text: Get in touch
+      - heading "Tell us what's crawling." [level=2] [ref=e557]:
+        - text: Tell us what's
+        - emphasis [ref=e558]: crawling.
+      - paragraph [ref=e559]: Send a quick message and Brad or Dean will get back to you the same day. Or skip the form and ring us — we genuinely answer the phone.
+      - list [ref=e560]:
+        - listitem [ref=e561]:
+          - generic [ref=e562]: Phone
+          - link "02 9592 5452" [ref=e563] [cursor=pointer]:
+            - /url: tel:0295925452
+        - listitem [ref=e564]:
+          - generic [ref=e565]: Email
+          - link "info@effective-pestcontrol.com.au" [ref=e566] [cursor=pointer]:
+            - /url: mailto:info@effective-pestcontrol.com.au
+        - listitem [ref=e567]:
+          - generic [ref=e568]: Service area
+          - generic [ref=e569]: Sydney & Greater Sydney
+        - listitem [ref=e570]:
+          - generic [ref=e571]: Hours
+          - generic [ref=e572]: Mon–Sat · 7:30am – 6:00pm
+      - list "Social" [ref=e573]:
+        - listitem [ref=e574]:
+          - link "Facebook" [ref=e575] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e576]
+        - listitem [ref=e578]:
+          - link "Instagram" [ref=e579] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e580]
+    - generic [ref=e582]:
+      - generic [ref=e583]:
+        - generic [ref=e584]:
+          - generic [ref=e585]: Your name
+          - textbox "Your name" [ref=e586]:
+            - /placeholder: Jane Smith
+        - generic [ref=e587]:
+          - generic [ref=e588]: Phone
+          - textbox "Phone" [ref=e589]:
+            - /placeholder: 04xx xxx xxx
+      - generic [ref=e590]:
+        - generic [ref=e591]:
+          - generic [ref=e592]: Email
+          - textbox "Email" [ref=e593]:
+            - /placeholder: you@example.com
+        - generic [ref=e594]:
+          - generic [ref=e595]: Suburb
+          - textbox "Suburb" [ref=e596]:
+            - /placeholder: Lane Cove
+      - generic [ref=e597]:
+        - generic [ref=e598]: What's the issue?
+        - textbox "What's the issue?" [ref=e599]:
+          - /placeholder: A short description — what you're seeing, where, how long…
+      - group "Pest type (optional)" [ref=e600]:
+        - generic [ref=e601]: Pest type (optional)
+        - generic [ref=e602] [cursor=pointer]:
+          - checkbox "Cockroaches"
+          - generic [ref=e603]: Cockroaches
+        - generic [ref=e604] [cursor=pointer]:
+          - checkbox "Rodents"
+          - generic [ref=e605]: Rodents
+        - generic [ref=e606] [cursor=pointer]:
+          - checkbox "Termites"
+          - generic [ref=e607]: Termites
+        - generic [ref=e608] [cursor=pointer]:
+          - checkbox "Ants"
+          - generic [ref=e609]: Ants
+        - generic [ref=e610] [cursor=pointer]:
+          - checkbox "Spiders"
+          - generic [ref=e611]: Spiders
+        - generic [ref=e612] [cursor=pointer]:
+          - checkbox "Other"
+          - generic [ref=e613]: Other
+      - button "Send message" [ref=e614] [cursor=pointer]:
+        - generic [ref=e615]: Send message
+        - img [ref=e616]
+      - paragraph [ref=e618]:
+        - text: We reply same day, Monday to Saturday. For urgent jobs, call
+        - link "02 9592 5452" [ref=e619] [cursor=pointer]:
+          - /url: tel:0295925452
+        - text: .
+  - contentinfo [ref=e620]:
+    - generic [ref=e621]:
+      - generic [ref=e622]:
+        - generic [ref=e623]:
+          - link "Effective Pest Control" [ref=e624] [cursor=pointer]:
+            - /url: "#home"
+            - img "Effective Pest Control" [ref=e625]
+          - paragraph [ref=e626]: Family-owned Sydney pest specialists. Thirty-five years on the job and counting. The smallest things make the biggest difference.
+          - list [ref=e627]:
+            - listitem [ref=e628]:
+              - link "Facebook" [ref=e629] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e630]
+            - listitem [ref=e632]:
+              - link "Instagram" [ref=e633] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e634]
+        - generic [ref=e636]:
+          - button "Sitemap" [ref=e637]
+          - list [ref=e638]:
+            - listitem [ref=e639]:
+              - link "Home" [ref=e640] [cursor=pointer]:
+                - /url: "#home"
+            - listitem [ref=e641]:
+              - link "About" [ref=e642] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e643]:
+              - link "Services" [ref=e644] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e645]:
+              - link "Why us" [ref=e646] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e647]:
+              - link "Reviews" [ref=e648] [cursor=pointer]:
+                - /url: "#testimonials"
+            - listitem [ref=e649]:
+              - link "FAQ" [ref=e650] [cursor=pointer]:
+                - /url: "#faq"
+            - listitem [ref=e651]:
+              - link "Contact" [ref=e652] [cursor=pointer]:
+                - /url: "#contact"
+        - generic [ref=e653]:
+          - button "Services" [ref=e654]
+          - list [ref=e655]:
+            - listitem [ref=e656]:
+              - link "General Pest Treatments" [ref=e657] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e658]:
+              - link "Rodent Control" [ref=e659] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e660]:
+              - link "Termite Inspections" [ref=e661] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e662]:
+              - link "German Cockroach Treatment" [ref=e663] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e664]:
+              - link "Commercial & Strata" [ref=e665] [cursor=pointer]:
+                - /url: "#services"
+        - generic [ref=e666]:
+          - button "Contact" [ref=e667]
+          - list [ref=e668]:
+            - listitem [ref=e669]:
+              - link "02 9592 5452" [ref=e670] [cursor=pointer]:
+                - /url: tel:0295925452
+            - listitem [ref=e671]:
+              - link "info@effective-pestcontrol.com.au" [ref=e672] [cursor=pointer]:
+                - /url: mailto:info@effective-pestcontrol.com.au
+            - listitem [ref=e673]: Sydney & Greater Sydney
+            - listitem [ref=e674]: Mon–Sat · 7:30am – 6:00pm
+      - generic [ref=e675]:
+        - paragraph [ref=e676]: © 2026 Effective Pest Control. All rights reserved.
+        - paragraph [ref=e677]:
+          - text: Made by
+          - img [ref=e678]
+          - link "CapsuleDIGITAL" [ref=e680] [cursor=pointer]:
+            - /url: https://www.capsuledigital.com.au/
+            - strong [ref=e681]: CapsuleDIGITAL
+  - button "Back to top":
+    - img
